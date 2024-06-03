@@ -56,3 +56,6 @@ def fail_function(req: func.HttpRequest) -> func.HttpResponse:
         status_code=200
     )
   
+@app.function_name('TestThis')
+@app.route(route='testctx', auth_level=func.AuthLevel.ANONYMOUS)
+def test_context(req: func.HttpRequest, )

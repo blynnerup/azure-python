@@ -10,7 +10,11 @@ https://www.youtube.com/watch?v=MF-nvoTUouk
 
 Useful guide regarding Cosmos:
 [Comsmos DB](https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python?tabs=asgi%2Capplication-level&pivots=python-mode-decorators#development-options) \
-Guide for SignalR and Python: [SignalR and Python](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-python)
+Guide for SignalR and Python: [SignalR and Python](https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-python)\
+https://stackoverflow.com/questions/66364050/azure-signal-r-and-azure-function-python\
+
+Go to guide atm:\
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service-trigger?tabs=isolated-process%2Cnodejs-v4&pivots=programming-language-python
 
 Use requirements.txt for python packages, then run `pip install -r requirements.txt` to install packages. Use `pip list` to get a full list of all modules installed.
 
